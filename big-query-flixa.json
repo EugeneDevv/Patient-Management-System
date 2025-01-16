@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "flixsa-422212",
+  "private_key_id": "8184099c480a021a1b1c99858cfaa1f7f7656763",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8fFOTrymInf5k\nJkxvA1FeSnIxD/uYMueAEQi/bgL9A4LfoXfU55TGkF35p4qxE+DSuilozYhqAyCe\ns9bH1FELV+zIwTr45gsKof3dJOjjyM1REmZIXpoTKx61BBm823AiiWOdIT6koM03\nmJfU69f4l98BtLW7XMfQTZRJjP3fEh6nS0i+W6nyvAxaMEl2jkH1zxaO61MmPSnr\nkalxlyhddmJNyY+A78w/sp0YF+UFbAczrIT0G7/UyViMbePkm7t6CaxqLB4FGwCg\n6Fo5pD4XNvGuXrUkX5wnI2YFpXRELS0b0NYd9NWpAo7QSwwWNsJFqgRoyWs1TCGT\nmo39vxWPAgMBAAECggEAD7wVQgvqXLRLy1KDKPVO8p8mX0AlUbRWLRO+9jQZ3cNQ\nRpj1JvnaKqVcov3Ajz3Ik+7kjBI0ZB00uOrscCwiQ98oLi4rXSHfJBkX10FAi9t0\ngGMX1MzI8fa0jon0GBb9inSLs09WKmoeF5kOe8Dge6k5/at3TFfXemUvjuBNRTTZ\n9tD0ibtA4Iz9OYFJ2vDaOTlgy20Xg9MXmstbGNn4BClBCK40qNdk/tPXTUtqW8pL\n3qyeaIEOF4mXeAEZ+bcBwFUnotDfgrsDpnkV4O/Ux3QPGBxuDleoeF1Mnos1WSb/\ntrtMszG/nvTsAh/D2VUkxZJRin851kWXuWPQa7q22QKBgQD+Ph8l95MsQuqrrqIT\nLViyShGO75gq+0Mb292rmw/QgqyMZnxh8kzvc6p0U/lZLSpIYD1E0abccpw9W7Q2\nxNrKefJk7aXm6Yo++A/KZQCf3m5wf3hKRhKiWvaXqVVb3n9QmsUZ+C6VneRLjPos\n1DJS+fo5Tja7KkWQdfIBwr0XNQKBgQC9ydlMD9XkT6qM9Y6F0mrlh+qLACSl8vwj\n9yOYke2jFyM/DHF5B99HYRKWfMZEAlbRW2PIV0Nmp5Vz1Wg2R88BCMB7MXIgSqke\nDSJKM+vs3bu0aaWCRm05bxHCz24AJFdNVSd2Z3Mb7wR7XVfMcV8Q+dfLoIzGtseV\ns8oPURZeMwKBgH5PAIyNPem8aPfYL58VZT5WO/jmIZQg9kst5SfvRmERuoWaGOtU\nRFKmBSX73iImpR4F6gp5mctliSeWmqanEAeNpBXuVwCsP8le1gF4QmIqUHXFbk6A\nF5vfUykvsD+O/3NdINTxDru4EIZUSKni1gmRNXYo3FoJ+zt0zUGArQ6NAoGBAI+p\noKRUBFwL9hU3uAgSrLpM9Tz9AcDguv5akIZoSFNBK3wJZkfwrpJwp8pkbwyCHMfj\nfxfi/nFRf+8r5vPXzZmBz3oxhqts+LF3zbIPtZIakoDRy+heeUWVjwNBU4ol+DPg\ntruJOXg2qNTdZp2qYAUQqspIIOg26cOnUdfgUKdDAoGBANhCTH+x0In1ayCLLkyp\nnN4w5QOEp1EAK3iJHMIkgRQ/k8iB9gIQ9LfMFb70MDUoMVN+W19iaE1/gdzQamIZ\nfpwgZTjFCzvpl9hHik7+3v6u5vHmWa+DP/5j+Kigc4gfPKRpg/v5hUxFFeyBTnHJ\nktecCZBI62w/wOaLdkSVexjp\n-----END PRIVATE KEY-----\n",
+  "client_email": "eujohtesting@flixsa-422212.iam.gserviceaccount.com",
+  "client_id": "107935812081116040498",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eujohtesting%40flixsa-422212.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
